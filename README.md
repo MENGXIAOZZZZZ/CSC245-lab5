@@ -1,4 +1,8 @@
 # CSC245-lab5
+![image](https://github.com/MENGXIAOZZZZZ/CSC245-lab5/assets/166454688/f03cbf12-e78d-4192-b601-7597be764112)
+![image](https://github.com/MENGXIAOZZZZZ/CSC245-lab5/assets/166454688/92ace233-1360-4f2c-9344-fc27b0ac6fe1)
+![image](https://github.com/MENGXIAOZZZZZ/CSC245-lab5/assets/166454688/f3d397e6-a5a3-4655-8293-db88438e78ec)
+
 
 import pandas as pd
 # 1. Write a Pandas program to print a concise summary of the dataset (titanic.csv).
